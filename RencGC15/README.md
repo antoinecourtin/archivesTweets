@@ -1,4 +1,4 @@
-#Archive des Tweets #RencNum
+#Archive des Tweets #RencGC15
 ---
 Ensemble des tweets de la journée Portes Ouvertes de l'INHA
 - Intitulé : Quatrièmes rencontres de la Galerie Colbert "Autour des Esclaves de Michel-Ange"

@@ -1,0 +1,30 @@
+# To add your dataset copy and uncomment this item and replace the boilerplate
+# text with a description of your dataset.
+#
+# - title: My Tweet Dataset             (the title for the dataset)
+#   creator: Jack Dorsey                (creator of the dataset)
+#   url: http://example.com/my-dataset/ (web location of your dataset)
+#   published: 2014-06-08               (date when the dataset was published)
+#   added: 2016-12-24T10:14:07Z         (the current GMT time)
+#   tweets: "1,000,001"                 (number of tweets in the dataset)
+#   dates: 2009-01-01 - 2009-06-01      (date coverage in the dataset)
+#   tags:                               (one or more topical tags)
+#     - politics
+#     - sociology
+#   description: >        
+#     This is a free text description of the dataset. You can add details
+#     about how it was created and for what purpose. Add as much detail as 
+#     you want. 
+
+- title: ""
+  creator: 
+  url: 
+  published: 
+  added: 
+  tweets: ""
+  dates: 2014-06-04 - 2015-05-31
+  tags:
+    - blacklivesmatter
+    - activism
+  description: >
+    description

@@ -11,21 +11,40 @@
 #   tags:                               (one or more topical tags)
 #     - politics
 #     - sociology
-#   description: >        
+#   description: >
 #     This is a free text description of the dataset. You can add details
-#     about how it was created and for what purpose. Add as much detail as 
-#     you want. 
+#     about how it was created and for what purpose. Add as much detail as
+#     you want.
 
 - title: "Tweets de la journée Portes Ouvertes de l'INHA, édition 2015"
   creator: Antoine Courtin
-  url: 
-  published: 
+  filename: rencGC15.txt
+  hashtag: rencGC15
+  url:
+  published:
   added: 2016-01-18
   tweets: "669"
-  dates: 2015-01-31 
+  dates: 2015-01-31
   tags:
     - INHA
     - JPO (Journée Portes Ouvertes)
     - Michel-Ange
+  description: >
+    xx
+
+- title: "Tweet du Datasprint organisé lors du forum de l'AAF en 2016 à Troyes"
+  creator: Antoine Courtin
+  filename: datasprintAAF.txt
+  hashtag: datasprintAAF
+  url:
+  published:
+  added: 2016-01-18
+  tweets: "882"
+  dates: 2015-12-16 - 2016-12-16
+  tags:
+    - Archives
+    - Datasprint
+    - Hackathon
+    - AAF
   description: >
     xx

@@ -16,6 +16,22 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: "Tweets des journées portes ouvertes pour l'réouverture du site Richelieu"
+  creator: Antoine Courtin
+  filename: weporichelieu.txt
+  hashtag: rencGC15
+  url:
+  published:
+  added: 2016-01-22
+  tweets: "1208"
+  dates: 2016-01-13 - 2016-01-15
+  tags:
+    - INHA
+    - Salle Labrouste
+    - BnF
+  description: >
+    xx
+
 - title: "Tweets de la journée Portes Ouvertes de l'INHA, édition 2015"
   creator: Antoine Courtin
   filename: rencGC15.txt
@@ -67,4 +83,4 @@
   description: >
     xx
 
-  -   
+  -

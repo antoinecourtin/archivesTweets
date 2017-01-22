@@ -8,5 +8,4 @@ Ces archives ont été réalisé soit à partir de l'outils en ligne de commande
 Les CGU de Twitter ne permettent pas de publier de corpus de tweets issus de son API quelque soit le mode de récupération. C'est pourquoi, dans ce répertoire, il n'y a que des listes d'id de tweets.
 
 ##Comment utiliser ces listes d'id de tweet ?
-Pour cela, il faut les réhydrater.
-
+Pour cela, il faut les réhydrater grâce à l'application Hydrator (https://github.com/DocNow/hydrator)

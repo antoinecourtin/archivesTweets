@@ -20,8 +20,8 @@
   creator: Antoine Courtin
   filename: weporichelieu.txt
   hashtag: weporichelieu
-  url:
-  published:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/weporichelieu.txt"
+  published: 2017-01-22
   added: 2017-01-22
   tweets: "1208"
   dates: 2016-01-13 - 2016-01-15
@@ -36,7 +36,7 @@
   creator: Antoine Courtin
   filename: rencGC15.txt
   hashtag: rencGC15
-  url:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC15.txt"
   published:
   added: 2016-01-18
   tweets: "669"
@@ -53,8 +53,8 @@
   creator: Antoine Courtin
   filename: rencGC16.txt
   hashtag: rencGC16
-  url:
-  published:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC16.txt"
+  published: 2016-01-18
   added: 2016-01-18
   tweets: "252"
   dates: 2016-01-31
@@ -70,7 +70,7 @@
   creator: Antoine Courtin
   filename: datasprintAAF.txt
   hashtag: datasprintAAF
-  url:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/datasprintAAF.txt"
   published:
   added: 2016-01-18
   tweets: "882"
@@ -87,9 +87,9 @@
   creator: Antoine Courtin
   filename: Archeoweek.txt
   hashtag: archeoweek
-  url:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/Archeoweek.txt"
   published: 2017-01-22
-  added:
+  added: 2017-01-22
   tweets: "26 458"
   dates: 2015-07-15 - 2017-01-21
   tags:
@@ -103,7 +103,7 @@
   creator: Antoine Courtin
   filename: galaoc.txt
   hashtag: galaoc
-  url:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/galaoc.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "535"
@@ -121,8 +121,8 @@
   creator: Antoine Courtin
   filename: hubertrobert.txt
   hashtag: HubertRobert
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/hubertrobert.txt
-  published:
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/hubertrobert.txt"
+  published: 2017-01-22
   added: 2017-01-22
   tweets: "6 158"
   dates: 2016-02-28 - 2016-01-21
@@ -135,10 +135,10 @@
 
 
 - title: "Tweets du hashtag #Museesdebout, initiative culturelle dans le cadre de #NuitDebout"
-  creator:
+  creator: Antoine Courtin
   filename: museesdebout.txt
   hashtag: museesdebout
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museesdebout.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museesdebout.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "3901"
@@ -146,16 +146,15 @@
   tags:
     - musées
     - Nuit debout
-    -
   description: >
     xx
 
 
 - title: "Tweets des #RencNum, évènement annuel organisé par le Ministère de la Culture et de la Communication"
-  creator:
+  creator: Antoine Courtin
   filename: RencNum.txt
   hashtag: RencNum
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/RencNum.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/RencNum.txt"
   published:
   added:
   tweets: "15 102"
@@ -170,12 +169,12 @@
 
 
 - title: "Tweets de l'évènement annuel #Askacurator"
-  creator:
+  creator: Antoine Courtin
   filename: askacurator.txt
   hashtag: askacurator
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/askacurator.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/askacurator.txt"
   published: 2017-01-22
-  added:
+  added: 2017-01-22
   tweets: "48 331"
   dates: 2015-09-16 - 2017-01-21
   tags:
@@ -189,15 +188,11 @@
   creator: Antoine Courtin
   filename: ouestsaintlouis.txt
   hashtag: OuEstSaintLouis
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/ouestsaintlouis.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/ouestsaintlouis.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "676"
-  dates: 01-12-2014 - 2016-08-04
-  tags:
-    - Exposition
-    - CMN
-    - Musée de Cluny
+  dates: 2014-12-01 - 2016-08-04
   description: >
     xx
 
@@ -205,11 +200,11 @@
   creator: Antoine Courtin
   filename: museumselfie.txt
   hashtag: MuseumSelfie
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museumselfie.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museumselfie.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "64 994"
-  dates: 2015-01-20 -  2017-22-01
+  dates: 2015-01-20 - 2017-22-01
   tags:
     - musées
     - médiation numérique
@@ -221,7 +216,7 @@
   creator: Antoine Courtin
   filename: jna16.txt
   hashtag: jna16
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/jna16.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/jna16.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "2 970"
@@ -230,7 +225,6 @@
     - archéologie
     - évènement culturel
     - médiation numérique
-
   description: >
     xx
 
@@ -239,7 +233,7 @@
   creator: Antoine Courtin
   filename: madeinalgeria.txt
   hashtag: madeinalgeria
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/madeinalgeria.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/madeinalgeria.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "784"
@@ -248,7 +242,6 @@
     - exposition
     - Algérie
     - MUCEM
-
   description: >
     xx
 
@@ -257,7 +250,7 @@
   creator: Antoine Courtin
   filename: museogeek.txt
   hashtag: museogeek
-  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museogeek.txt
+  url: "https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museogeek.txt"
   published: 2017-01-22
   added: 2017-01-22
   tweets: "3 313"

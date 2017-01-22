@@ -1,31 +1,31 @@
-title,creator,filename,hashtag,url,tweets,dates,tags/0,tags/1,tags/2,description,published,tags/3,added
-Tweets des journées portes ouvertes pour la réouverture du site Richelieu,Antoine Courtin,weporichelieu.txt,weporichelieu,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/weporichelieu.txt,1208,2016-01-13 - 2016-01-15,INHA,Salle Labrouste,BnF,"xx
-",,,
-"Tweets de la journée Portes Ouvertes de l'INHA, édition 2015",Antoine Courtin,rencGC15.txt,rencGC15,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC15.txt,669,2015-01-31 - 2015-01-31,INHA,JPO (Journée Portes Ouvertes),Michel-Ange,"xx
-",,Rencontre de la Galerie Colbert,
-"Tweets de la journée Portes Ouvertes de l'INHA, édition 2016",Antoine Courtin,rencGC16.txt,rencGC16,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC16.txt,252,2016-01-31 - 2016-01-31,INHA,JPO (Journée Portes Ouvertes),La dame à la Licorne,"xx
-",,Rencontre de la Galerie Colbert,
-Tweets du Datasprint organisé lors du forum de l'AAF en 2016 à Troyes,Antoine Courtin,datasprintAAF.txt,datasprintAAF,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/datasprintAAF.txt,882,2015-12-16 - 2016-12-16,Archives,Datasprint,Hackathon,"xx
-",,AAF,
-Tweets de l'évèneemnt Archeoweek,Antoine Courtin,Archeoweek.txt,archeoweek,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/Archeoweek.txt,26 458,2015-07-15 - 2017-01-21,Archéologie,Musée d'archéologie nationale,,"xx
-",,,
-Tweets de l'évènement du gala de l'Opéra Comique,Antoine Courtin,galaoc.txt,galaoc,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/galaoc.txt,535,2014-11-13 - 2014-11-13,Opéra Comique,Opéra,Gala,"xx
-",,musique classique,
-Tweets du hashtag officiel de l'exposition Hubert Robert du Musée du Louvre,Antoine Courtin,hubertrobert.txt,HubertRobert,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/hubertrobert.txt,6 158,2016-02-28 - 2016-01-21,Hubert Robert,Musée du Louvre,Exposition,"xx
-",,,
-"Tweets du hashtag #Museesdebout, initiative culturelle dans le cadre de #NuitDebout",Antoine Courtin,museesdebout.txt,museesdebout,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museesdebout.txt,3901,2016-04-10 - 2017-01-15,musées,Nuit debout,,"xx
-",,,
-"Tweets des #RencNum, évènement annuel organisé par le Ministère de la Culture et de la Communication",Antoine Courtin,RencNum.txt,RencNum,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/RencNum.txt,15 102,2014-09-24 - 2017-01-04,Rencontres numériques,Colloque,Médiation numérique,"xx
-",,rencontres professionnelles,
-Tweets de l'évènement annuel #Askacurator,Antoine Courtin,askacurator.txt,askacurator,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/askacurator.txt,48 331,2015-09-16 - 2017-01-21,médiation culturelle,conservateurs,GLAMs,"xx
-",,,
-Tweets de l'opération Ou est Saint-Louis organisé par le Musée de Cluny et le CMN,Antoine Courtin,ouestsaintlouis.txt,OuEstSaintLouis,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/ouestsaintlouis.txt,676,2014-12-01 - 2016-08-04,Exposition,CMN,Musée de Cluny,"xx
-",,,
-Tweets de l'opération #MuseumSelfie,Antoine Courtin,museumselfie.txt,MuseumSelfie,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museumselfie.txt,64 994,2015-01-20 - 2017-22-01,musées,médiation numérique,selfie,"xx
-",,,
-Tweets de la journée nationale de l'archéologie,Antoine Courtin,jna16.txt,jna16,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/jna16.txt,2 970,2016-06-16 - 2016-06-24,archéologie,évènement culturel,médiation numérique,"xx
-",,,
-Tweets du hashtag de l'exposition Made in Algéria au MUCEM ,Antoine Courtin,madeinalgeria.txt,madeinalgeria,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/madeinalgeria.txt,784,2016-01-16 - 2017-01-08,exposition,Algérie,MUCEM,"xx
-",,,
-"Tweets du hashtag #museogeek, fédérateur d'une communauté de professionnels",Antoine Courtin,museogeek.txt,museogeek,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museogeek.txt,3 313,2014-11-24 - 2017-01-21,museogeek,communauté de professionels,numérique,"xx
-",,,
+title,Nbretweets,dates,filename,hashtag,url,tags/0,tags/1,tags/2,description,creator,published,tags/3
+Tweets des journées portes ouvertes pour la réouverture du site Richelieu,1208,2016-01-13 - 2016-01-15,weporichelieu.txt,weporichelieu,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/weporichelieu.txt,INHA,Salle Labrouste,BnF,"xx
+",Antoine Courtin,,
+"Tweets de la journée Portes Ouvertes de l'INHA, édition 2015",669,2015-01-31 - 2015-01-31,rencGC15.txt,rencGC15,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC15.txt,INHA,JPO (Journée Portes Ouvertes),Michel-Ange,"xx
+",Antoine Courtin,,Rencontre de la Galerie Colbert
+"Tweets de la journée Portes Ouvertes de l'INHA, édition 2016",252,2016-01-31 - 2016-01-31,rencGC16.txt,rencGC16,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/rencGC16.txt,INHA,JPO (Journée Portes Ouvertes),La dame à la Licorne,"xx
+",Antoine Courtin,,Rencontre de la Galerie Colbert
+Tweets du Datasprint organisé lors du forum de l'AAF en 2016 à Troyes,882,2015-12-16 - 2016-12-16,datasprintAAF.txt,datasprintAAF,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/datasprintAAF.txt,Archives,Datasprint,Hackathon,"xx
+",Antoine Courtin,,AAF
+Tweets de l'évèneemnt Archeoweek,26 458,2015-07-15 - 2017-01-21,Archeoweek.txt,archeoweek,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/Archeoweek.txt,Archéologie,Musée d'archéologie nationale,,"xx
+",Antoine Courtin,,
+Tweets de l'évènement du gala de l'Opéra Comique,535,2014-11-13 - 2014-11-13,galaoc.txt,galaoc,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/galaoc.txt,Opéra Comique,Opéra,Gala,"xx
+",Antoine Courtin,,musique classique
+Tweets du hashtag officiel de l'exposition Hubert Robert du Musée du Louvre,6 158,2016-02-28 - 2016-01-21,hubertrobert.txt,HubertRobert,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/hubertrobert.txt,Hubert Robert,Musée du Louvre,Exposition,"xx
+",Antoine Courtin,,
+"Tweets du hashtag #Museesdebout, initiative culturelle dans le cadre de #NuitDebout",3901,2016-04-10 - 2017-01-15,museesdebout.txt,museesdebout,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museesdebout.txt,musées,Nuit debout,,"xx
+",Antoine Courtin,,
+"Tweets des #RencNum, évènement annuel organisé par le Ministère de la Culture et de la Communication",15 102,2014-09-24 - 2017-01-04,RencNum.txt,RencNum,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/RencNum.txt,Rencontres numériques,Colloque,Médiation numérique,"xx
+",Antoine Courtin,,rencontres professionnelles
+Tweets de l'évènement annuel #Askacurator,48 331,2015-09-16 - 2017-01-21,askacurator.txt,askacurator,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/askacurator.txt,médiation culturelle,conservateurs,GLAMs,"xx
+",Antoine Courtin,,
+Tweets de l'opération Ou est Saint-Louis organisé par le Musée de Cluny et le CMN,676,2014-12-01 - 2016-08-04,ouestsaintlouis.txt,OuEstSaintLouis,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/ouestsaintlouis.txt,Exposition,CMN,Musée de Cluny,"xx
+",Antoine Courtin,,
+Tweets de l'opération #MuseumSelfie,64 994,2015-01-20 - 2017-22-01,museumselfie.txt,MuseumSelfie,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museumselfie.txt,musées,médiation numérique,selfie,"xx
+",Antoine Courtin,,
+Tweets de la journée nationale de l'archéologie,2 970,2016-06-16 - 2016-06-24,jna16.txt,jna16,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/jna16.txt,archéologie,évènement culturel,médiation numérique,"xx
+",Antoine Courtin,,
+Tweets du hashtag de l'exposition Made in Algéria au MUCEM ,784,2016-01-16 - 2017-01-08,madeinalgeria.txt,madeinalgeria,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/madeinalgeria.txt,exposition,Algérie,MUCEM,"xx
+",Antoine Courtin,,
+"Tweets du hashtag #museogeek, fédérateur d'une communauté de professionnels",3 313,2014-11-24 - 2017-01-21,museogeek.txt,museogeek,https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museogeek.txt,museogeek,communauté de professionels,numérique,"xx
+",Antoine Courtin,,

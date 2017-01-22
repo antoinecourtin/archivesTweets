@@ -16,13 +16,13 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
-- title: "Tweets des journées portes ouvertes pour l'réouverture du site Richelieu"
+- title: "Tweets des journées portes ouvertes pour la réouverture du site Richelieu"
   creator: Antoine Courtin
   filename: weporichelieu.txt
-  hashtag: rencGC15
+  hashtag: weporichelieu
   url:
   published:
-  added: 2016-01-22
+  added: 2017-01-22
   tweets: "1208"
   dates: 2016-01-13 - 2016-01-15
   tags:
@@ -66,7 +66,7 @@
   description: >
     xx
 
-- title: "Tweet du Datasprint organisé lors du forum de l'AAF en 2016 à Troyes"
+- title: "Tweets du Datasprint organisé lors du forum de l'AAF en 2016 à Troyes"
   creator: Antoine Courtin
   filename: datasprintAAF.txt
   hashtag: datasprintAAF
@@ -83,4 +83,136 @@
   description: >
     xx
 
-  -
+- title: "Tweets de l'évèneemnt Archeoweek"
+  creator: Antoine Courtin
+  filename: Archeoweek.txt
+  hashtag: archeoweek
+  url:
+  published: 2017-01-22
+  added:
+  tweets: "26 458"
+  dates: 2015-07-15 - 2017-01-21
+  tags:
+    - Archéologie
+    - Musée d'archéologie nationale
+  description: >
+    xx
+
+
+- title: "Tweets de l'évènement du gala de l'Opéra Comique"
+  creator: Antoine Courtin
+  filename: galaoc.txt
+  hashtag: galaoc
+  url:
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "535"
+  dates: 2014-11-13
+  tags:
+    - Opéra Comique
+    - Opéra
+    - Gala
+    - musique classique
+  description: >
+    xx
+
+
+- title: "Tweets du hashtag officiel de l'exposition Hubert Robert du Musée du Louvre"
+  creator: Antoine Courtin
+  filename: hubertrobert.txt
+  hashtag: HubertRobert
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/hubertrobert.txt
+  published:
+  added: 2017-01-22
+  tweets: "6 158"
+  dates: 2016-02-28 - 2016-01-21
+  tags:
+    - Hubert Robert
+    - Musée du Louvre
+    - Exposition
+  description: >
+    xx
+
+
+- title: "Tweets du hashtag #Museesdebout, initiative culturelle dans le cadre de #NuitDebout"
+  creator:
+  filename: museesdebout.txt
+  hashtag: museesdebout
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museesdebout.txt
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "3901"
+  dates: 2016-04-10 - 2017-01-15
+  tags:
+    - musées
+    - Nuit debout
+    -
+  description: >
+    xx
+
+
+- title: "Tweets des #RencNum, évènement annuel organisé par le Ministère de la Culture et de la Communication"
+  creator:
+  filename: RencNum.txt
+  hashtag: RencNum
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/RencNum.txt
+  published:
+  added:
+  tweets: "15 102"
+  dates: 2014-09-24 - 2017-01-04
+  tags:
+    - Rencontres numériques
+    - Colloque
+    - Médiation numérique
+    - rencontres professionnelles
+  description: >
+    xx
+
+
+- title: "Tweets de l'évènement annuel #Askacurator"
+  creator:
+  filename: askacurator.txt
+  hashtag: askacurator
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/askacurator.txt
+  published: 2017-01-22
+  added:
+  tweets: "48 331"
+  dates: 2015-09-16 - 2017-01-21
+  tags:
+    - médiation culturelle
+    - conservateurs
+    - GLAMs
+  description: >
+    xx
+
+- title: "Tweets de l'opération "Ou est Saint-Louis" organisé par le Musée de Cluny et le CMN"
+  creator: Antoine Courtin
+  filename: ouestsaintlouis.txt
+  hashtag: OuEstSaintLouis
+  url:
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "676"
+  dates: 01-12-2014 - 2016-08-04
+  tags:
+    - Exposition
+    - CMN
+    - Musée de Cluny
+  description: >
+    xx
+
+- title: "Tweets de l'opération #MuseumSelfie"
+  creator: Antoine Courtin
+  filename: museumselfie.txt
+  hashtag: MuseumSelfie
+  url:
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "64 994"
+  dates: 2015-01-20 -  2017-22-01
+  tags:
+    - musées
+    - médiation numérique
+    - selfie
+  description: >
+    xx

@@ -189,7 +189,7 @@
   creator: Antoine Courtin
   filename: ouestsaintlouis.txt
   hashtag: OuEstSaintLouis
-  url:
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/ouestsaintlouis.txt
   published: 2017-01-22
   added: 2017-01-22
   tweets: "676"
@@ -205,7 +205,7 @@
   creator: Antoine Courtin
   filename: museumselfie.txt
   hashtag: MuseumSelfie
-  url:
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museumselfie.txt
   published: 2017-01-22
   added: 2017-01-22
   tweets: "64 994"
@@ -214,5 +214,57 @@
     - musées
     - médiation numérique
     - selfie
+  description: >
+    xx
+
+- title: "Tweets de la journée nationale de l'archéologie"
+  creator: Antoine Courtin
+  filename: jna16.txt
+  hashtag: jna16
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/jna16.txt
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "2 970"
+  dates: 2016-06-16 - 2016-06-24
+  tags:
+    - archéologie
+    - évènement culturel
+    - médiation numérique
+
+  description: >
+    xx
+
+
+- title: "Tweets du hashtag de l'exposition Made in Algéria au MUCEM "
+  creator: Antoine Courtin
+  filename: madeinalgeria.txt
+  hashtag: madeinalgeria
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/madeinalgeria.txt
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "784"
+  dates: 2016-01-16 - 2017-01-08
+  tags:
+    - exposition
+    - Algérie
+    - MUCEM
+
+  description: >
+    xx
+
+
+- title: "Tweets du hashtag #museogeek, fédérateur d'une "communauté" de professionnels"
+  creator: Antoine Courtin
+  filename: museogeek.txt
+  hashtag: museogeek
+  url: https://github.com/antoinecourtin/archivesTweets/blob/master/dataset/museogeek.txt
+  published: 2017-01-22
+  added: 2017-01-22
+  tweets: "3 313"
+  dates: 2014-11-24 - 2017-01-21
+  tags:
+    - museogeek
+    - communauté de professionels
+    - numérique
   description: >
     xx

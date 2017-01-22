@@ -40,7 +40,7 @@
   published:
   added: 2016-01-18
   tweets: "669"
-  dates: 2015-01-31
+  dates: 2015-01-31 - 2015-01-31
   tags:
     - INHA
     - JPO (Journée Portes Ouvertes)
@@ -57,7 +57,7 @@
   published: 2016-01-18
   added: 2016-01-18
   tweets: "252"
-  dates: 2016-01-31
+  dates: 2016-01-31 - 2016-01-31
   tags:
     - INHA
     - JPO (Journée Portes Ouvertes)
@@ -107,7 +107,7 @@
   published: 2017-01-22
   added: 2017-01-22
   tweets: "535"
-  dates: 2014-11-13
+  dates: 2014-11-13 - 2014-11-13
   tags:
     - Opéra Comique
     - Opéra
@@ -184,7 +184,7 @@
   description: >
     xx
 
-- title: "Tweets de l'opération "Ou est Saint-Louis" organisé par le Musée de Cluny et le CMN"
+- title: "Tweets de l'opération Ou est Saint-Louis organisé par le Musée de Cluny et le CMN"
   creator: Antoine Courtin
   filename: ouestsaintlouis.txt
   hashtag: OuEstSaintLouis
@@ -193,6 +193,10 @@
   added: 2017-01-22
   tweets: "676"
   dates: 2014-12-01 - 2016-08-04
+  tags:
+    - Exposition
+    - CMN
+    - Musée de Cluny
   description: >
     xx
 
@@ -246,7 +250,7 @@
     xx
 
 
-- title: "Tweets du hashtag #museogeek, fédérateur d'une "communauté" de professionnels"
+- title: "Tweets du hashtag #museogeek, fédérateur d'une communauté de professionnels"
   creator: Antoine Courtin
   filename: museogeek.txt
   hashtag: museogeek
